@@ -94,13 +94,12 @@ vLLM's hand-tuned kernels remain **1.5–2.6× faster** at the same accuracy.
 ## Citation
 
 ```bibtex
-@inproceedings{vericode_nanovllm,
-  title     = {From Vibe-Coding to Verified-Coding: A Case Study in
-               Human-Architected, AI-Assisted, Human-Audited Verification of
-               MoE-Inference Support in nano-vLLM},
-  author    = {TODO: author list},
-  booktitle = {TODO: venue},
-  year      = {TODO},
-  url       = {https://openreview.net/pdf?id=AcgRi561Jt},
+@inproceedings{
+    vericode_nanovllm,
+    title={From Vibe-Coding to Verified-Coding: A Case Study in Human-Architected, {AI}-Assisted, Human-Audited Verification of MoE-Inference Support in nano-v{LLM}},
+    author={Jun Yang and Wei Zhang and Kexin Pei and Shyam Ramji},
+    booktitle={NeurIPS 2026 Workshop on AI for Verifiable Coding},
+    year={2026},
+    url={https://openreview.net/forum?id=AcgRi561Jt}
 }
 ```
